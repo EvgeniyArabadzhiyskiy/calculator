@@ -6,6 +6,7 @@ const spacing = {
   double: `${base * 2}px`,
   triple: `${base * 3}px`,
   quintuple: `${base * 5}px`,
+  ninety: `${base * 9}px`,
 }
 
 export default spacing;
